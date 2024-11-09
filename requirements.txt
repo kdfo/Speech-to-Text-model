@@ -4,4 +4,4 @@ numpy
 pydub
 streamlit
 streamlit_webrtc
-twilio~
+twilio
